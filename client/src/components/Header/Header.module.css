@@ -1,0 +1,17 @@
+.header {
+    margin-top: 50px;
+}
+
+.logo {
+    width: 100%;
+    max-width: 920px;
+    margin: 0 auto;
+    display: block;
+    height: auto; /* This ensures the image maintains its aspect ratio */
+}
+
+.appSubtitle {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
